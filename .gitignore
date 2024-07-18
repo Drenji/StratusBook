@@ -1,0 +1,3 @@
+# ignore ssh key files
+*.key
+key

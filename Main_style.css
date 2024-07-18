@@ -100,9 +100,6 @@ footer{
     text-decoration: underline;
     text-align: left;
 }
-.source_link :hover{
-    color:blue;
-}
 footer h6{
     color:white;
     font-family: Lexend;

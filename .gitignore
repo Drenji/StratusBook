@@ -1,3 +1,7 @@
 # ignore ssh key files
 *.key
 key
+
+# json files
+*.json
+*.vscode
